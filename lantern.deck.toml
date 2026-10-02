@@ -1,0 +1,7 @@
+name = "Lantern"
+format = "modern"
+cards = [
+  { name = "Lantern of Insight", qty = 4 },
+  { name = "Codex Shredder", qty = 4 },
+  { name = "Ensnaring Bridge", qty = 4 },
+]
