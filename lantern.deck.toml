@@ -5,6 +5,6 @@ cards = [
   { name = "Codex Shredder", qty = 2 },
   { name = "Pithing Needle", qty = 1 },
   { name = "Ensnaring Bridge", qty = 4 },
-  { name = "Island", qty = 4 },
-  { name = "Mishra's Bauble", qty = 4 },
+  { name = "Island", qty = 6 },
+  { name = "Mishra's Bauble", qty = 3 },
 ]
