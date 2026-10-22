@@ -2,7 +2,8 @@ name = "Lantern"
 format = "modern"
 cards = [
   { name = "Lantern of Insight", qty = 4 },
-  { name = "Codex Shredder", qty = 4 },
+  { name = "Codex Shredder", qty = 3 },
+  { name = "Pithing Needle", qty = 1 },
   { name = "Ensnaring Bridge", qty = 4 },
   { name = "Island", qty = 4 },
   { name = "Mishra's Bauble", qty = 4 },
